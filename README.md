@@ -1,5 +1,5 @@
 # Hangman
-A Hangman Game using C
+A Hangman Game using C\n
 The project was done by three undergraduate CS students in their first year, so it's not that high-end.
 The program was developed using the TurboC compiler due to requirements of needing to program in the C language and the need to use the graphics.h header file. 
 graphics.h is not supported by other compilers, so this project works only on the TurboC compiler
